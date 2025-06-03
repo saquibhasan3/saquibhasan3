@@ -127,5 +127,4 @@ impl BackendDeveloper for Saquib {
 
 > "Backend systems should be like oxygen - invisible when working perfectly, but mission-critical when absent."  
 > — *Saquib's Engineering Mantra*
-```
 
