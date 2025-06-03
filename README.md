@@ -26,9 +26,9 @@ Distributed Systems: Built event-driven pipelines with Kafka and RabbitMQ, proce
 
 ## Get in Touch
 
-Portfolio: saquibhasan.in
-LinkedIn: linkedin.com/in/saquib-hasan-527880ba/
-Email: saquiibhasan3@gmail.com
+  Portfolio: saquibhasan.in
+  LinkedIn: linkedin.com/in/saquib-hasan-527880ba
+  Email: saquiibhasan3@gmail.com
 
 ## My Approach
 I’m passionate about writing clean, maintainable, and efficient code, adhering to SOLID principles and TDD. I leverage Go’s simplicity and concurrency primitives to build resilient systems that scale effortlessly. Whether it’s optimizing database queries, hardening security, or orchestrating cloud-native deployments, I’m driven by a commitment to excellence and continuous learning.
