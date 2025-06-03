@@ -129,11 +129,3 @@ impl BackendDeveloper for Saquib {
 > — *Saquib's Engineering Mantra*
 ```
 
-### Design Features:
-1. **Technical Aesthetics**: Uses emojis, code blocks, and tables for visual appeal
-2. **Programmatic Elements**: Go/Rust/Python pseudocode to showcase technical thinking
-3. **Performance Highlights**: Clear metrics with visual indicators
-4. **Structured Sections**: Organized like a well-architected system
-5. **Developer Personality**: Shows passion through creative formatting
-6. **Responsive Design**: Looks good on GitHub's markdown renderer
-
