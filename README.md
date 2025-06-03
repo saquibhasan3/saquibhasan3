@@ -5,7 +5,7 @@
 ```go
 package main
 
-import "github.com/saquib-hasan/scalable-systems"
+import "github.com/saquibhasan3/scalable-systems"
 
 func main() {
     engineer := saquib.NewBackendEngineer(
