@@ -1,4 +1,3 @@
-### Saquib Hasan
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="28"/> Saquib Hasan 
 ### **Senior Backend Engineer** | **Golang Architect** | **Scalable Systems Specialist**
