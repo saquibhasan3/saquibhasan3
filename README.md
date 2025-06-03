@@ -119,11 +119,9 @@ impl BackendDeveloper for Saquib {
 | **Portal**       | **Link**                                   |
 |------------------|--------------------------------------------|
 | **Portfolio**    | [saquibhasan.in](https://saquibhasan.in)   |
-| **LinkedIn**     | [linkedin.com/in/saquib-hasan](...)        |
+| **LinkedIn**     | [linkedin.com/in/saquib-hasan](https://www.linkedin.com/in/saquib-hasan-527880ba)        |
 | **Email**        | `saquiibhasan3@gmail.com`                  |
 | **Code Reviews** | `Open to collaborating on interesting Go projects` |
-
-![System Architecture Diagram](https://via.placeholder.com/800x400/2a2e35/ffffff?text=Microservices+Architecture+Sample)
 
 > "Backend systems should be like oxygen - invisible when working perfectly, but mission-critical when absent."  
 > — *Saquib's Engineering Mantra*
