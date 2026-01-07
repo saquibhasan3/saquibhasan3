@@ -23,10 +23,10 @@ func main() {
 ### **Core Stack**
 | **Category**       | **Technologies**                                                                 |
 |--------------------|----------------------------------------------------------------------------------|
-| **Languages**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="14"/> Golang, SQL, Python |
+| **Languages**      | Golang, SQL, Python |
 | **Frameworks**     | Gin, Echo, gRPC, Protobuf, GORM                                                  |
-| **Databases**      | PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="14"/>, MySQL, MongoDB, Redis, DynamoDB |
-| **Cloud/DevOps**   | AWS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="14"/>, GCP, Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="14"/>, Kubernetes, Terraform |
+| **Databases**      | PostgreSQL , MySQL, MongoDB, Redis, DynamoDB |
+| **Cloud/DevOps**   | AWS, GCP, Docker, Kubernetes, Terraform |
 | **Architecture**   | Microservices, Event-Driven, CQRS, DDD, Multi-Tenancy                           |
 
 ### **Performance Toolkit**
