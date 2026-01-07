@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="28"/> Saquib Hasan 
+# Saquib Hasan 
 ### **Senior Backend Engineer** | **Golang Architect** | **Scalable Systems Specialist**
 
 ```go
@@ -18,7 +18,7 @@ func main() {
 }
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25"/> Technical Arsenal
+## Technical Arsenal
 
 ### **Core Stack**
 | **Category**       | **Technologies**                                                                 |
@@ -40,14 +40,14 @@ func main() {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25"/> Engineering Milestones
+##  Engineering Milestones
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Server.png" alt="Server" width="20"/> Scalable SaaS Platforms
+### Scalable SaaS Platforms
 - Built multi-tenant systems with **99.99% uptime**
 - Implemented **schema-per-tenant** isolation
 - Horizontal scaling for **10K+ concurrent users**
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20"/> Security Achievements
+### Security Achievements
 ```python
 def secure_systems():
     auth = OAuth2 + JWT + RBAC
@@ -56,16 +56,16 @@ def secure_systems():
     return ZeroBreachesAchieved()
 ```
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20"/> Performance Wins
+### Performance Wins
 - **40% latency reduction** in mission-critical APIs
 - **5x throughput** improvement with gRPC streaming
 - **70% cost optimization** via query tuning
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25"/> Featured Projects
+##  Featured Projects
 
-### [SaaS Multi-Tenant Framework] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spool%20of%20Thread.png" alt="Spool of Thread" width="20"/>
+### [SaaS Multi-Tenant Framework] 
 ```yaml
 tech_stack:
   language: Golang
@@ -77,14 +77,14 @@ tech_stack:
   performance: 50ms p99 latency
 ```
 
-### [Secure API Gateway] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20"/>
+### [Secure API Gateway]
 ```bash
 $ curl -X GET https://api.saquib.dev/v1/secure \
   -H "Authorization: Bearer <JWT>" \
   -H "X-RateLimit: 1000rpm"
 ```
 
-### [Real-Time Data Pipeline] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="20"/>
+### [Real-Time Data Pipeline]
 ```
 10M+ events/day processed
 Kafka → Golang workers → Redis → Analytics
@@ -93,7 +93,7 @@ Kafka → Golang workers → Redis → Analytics
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25"/> Development Philosophy
+## Development Philosophy
 
 ```rust
 // No-nonsense engineering
@@ -114,13 +114,13 @@ impl BackendDeveloper for Saquib {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25"/> Connect
+## Connect
 
 | **Portal**       | **Link**                                   |
 |------------------|--------------------------------------------|
 | **Portfolio**    | [saquibhasan.in](https://saquibhasan.in)   |
 | **LinkedIn**     | [linkedin.com/in/saquib-hasan](https://www.linkedin.com/in/saquib-hasan-527880ba)        |
-| **Email**        | `saquiibhasan3@gmail.com`                  |
+| **Email**        | `saquibhasan3@gmail.com`                  |
 | **Code Reviews** | `Open to collaborating on interesting Go projects` |
 
 > "Backend systems should be like oxygen - invisible when working perfectly, but mission-critical when absent."  
